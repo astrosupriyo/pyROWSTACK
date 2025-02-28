@@ -15,19 +15,19 @@ First step:
 
 - Read the object image and plot it
 - Separate out the bright chunk and faint row
-- Based on the repetation number of the bright row, seperate out bright row from the bright chunk and stack the rows along an axis
+- Based on the repetition number of the bright row, seperate out bright row from the bright chunk and stack the rows along an axis
 - Add all bright rows
 - Create a plot of bright row and the faint row
 
 Second step:
 
 - The object image is corrected for bias (For that, master bias is created by median combination).
-- Repate the First step
+- Repeat the First step
 
 Thrid step:
 
 - The image is corrected for bias (created in the Second step) and dark (master dark is created by median combination).
-- Repate the First step
+- Repeat the First step
 
 
 ### Python modules
