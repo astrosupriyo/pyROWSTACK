@@ -1,5 +1,5 @@
 # pyROWSTACK
-This is a Jupyter notebook to stack multiple rows of a detector (8K x 2K) after bias and dark correction. It presents an enhancement of the dynamical range of a CMOS detector.
+This is a Jupyter notebook to stack multiple rows of a detector (8K x 2K) after bias and dark corrections. It presents an enhancement of the dynamical range of a CMOS detector.
 
 #  Background
 
