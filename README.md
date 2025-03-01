@@ -24,7 +24,7 @@ Second step:
 - The object image is corrected for bias (For that, master bias is created by median combination).
 - Repeat the First step
 
-Thrid step:
+Third step:
 
 - The image is corrected for bias (created in the Second step) and dark (master dark is created by median combination).
 - Repeat the First step
